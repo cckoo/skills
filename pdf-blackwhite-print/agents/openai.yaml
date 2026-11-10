@@ -1,0 +1,4 @@
+interface:
+  display_name: "PDF 黑白打印排版"
+  short_description: "识别文字与扫描 PDF，重建图表和页底脚注，制作紧凑省墨打印版"
+  default_prompt: "使用 $pdf-blackwhite-print 制作省墨的黑白打印版，先检查 PDF 类型并询问本次是否启用多 agent。"
